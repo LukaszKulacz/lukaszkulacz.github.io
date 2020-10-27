@@ -5,3 +5,4 @@ show_downloads: true
 github:
   is_project_page: true
   repository_url: http://github.com/LukaszKulacz
+  repository_name: MainPage
