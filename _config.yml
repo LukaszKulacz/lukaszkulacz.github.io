@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
-title: Strona Główna
+title: Łukasz Kułacz
 description: Tutaj znajdziesz odnośniki do wszystkich niezbędnych informacji i projektów.
 show_downloads: true
+github:
+  repository_url: http://github.com/lukaszkulacz
