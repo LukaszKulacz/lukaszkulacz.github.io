@@ -1,7 +1,4 @@
 theme: jekyll-theme-cayman
-title: Tytuł
-email: 'dev.yakuza@gmail.com'
-description: krótki opis
-url: https://lukaszkulacz.github.io
-github_username: lukaszkulacz
-author: dev.yakuza@gmail.com
+title: Strona Główna
+description: Tutaj znajdziesz odnośniki do wszystkich niezbędnych informacji i projektów.
+show_downloads: true
