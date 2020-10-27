@@ -2,3 +2,20 @@ theme: jekyll-theme-cayman
 title: Strona Główna
 email: lukaszkulacz@gmail.com
 description: Opis
+author: Łukasz Kułacz
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+avatar: "/assets/img/avatar-icon.png"
+round-avatar: true
+
+social-network-links:
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
