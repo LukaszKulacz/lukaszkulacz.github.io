@@ -1,5 +1,7 @@
 ## Projekty 
-1. [ToDoList - Tutorial Vue.js](http://lukaszkulacz.github.io/Vue/)
+* [ToDoList - Tutorial Vue.js](http://lukaszkulacz.github.io/Vue/)
+> Bardzo prosta aplikacja, za pomocą której możliwe jest dodawanie zadań do listy oraz oznaczanie ich jako wykonanych.
+* sdads
 
 ## Publikacje naukowe
 1.	A. Kliks, P. Kryszkiewicz, A. Umbert, J. Pérez-Romero, F. Casadevall, Ł. Kułacz, “*Application of Radio Environment Maps for Dynamic Broadband Access in TV Bands in Urban Areas*,” IEEE Access, tom PP, nr 99, str 1-1, doi: 10.1109/ACCESS.2017.2751138
