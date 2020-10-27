@@ -3,4 +3,4 @@ title: Łukasz Kułacz
 description: Tutaj znajdziesz odnośniki do wszystkich niezbędnych informacji i projektów.
 show_downloads: true
 github:
-  repository_url: http://github.com/lukaszkulacz
+  is_project_page: true
