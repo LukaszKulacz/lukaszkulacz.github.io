@@ -1,7 +1,7 @@
 ## Projekty 
 #### [ToDoList - Tutorial Vue.js](http://lukaszkulacz.github.io/Vue/) ([GitHub](http://github.com/LukaszKulacz/Vue))
 Bardzo prosta aplikacja, za pomocą której możliwe jest dodawanie zadań do listy oraz oznaczanie ich jako wykonanych.
-#### [Zajęcia](https://lk-aisd.herokuapp.com/) ([Strona projektu](), [GitHub](http://github.com/LukaszKulacz/lk-aisd))
+#### [Zajęcia](https://lk-aisd.herokuapp.com/) ([Strona projektu](http://lukaszkulacz.github.io/lk-aisd/), [GitHub](http://github.com/LukaszKulacz/lk-aisd))
 Aplikacja, która umożliwia tworzenie, modyfikowanie i usuwanie zajęć. W ramach pojedyńczych zajęć można zarządzać wpisami dotyczącymi danych zajęć. Aplikacja została utworzona z pomocą języka *python*, biblioteki *django* oraz strony *herokuapp*.
 
 ## Publikacje naukowe
