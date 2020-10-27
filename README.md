@@ -1,7 +1,8 @@
 ## Projekty 
-#### [ToDoList - Tutorial Vue.js](http://lukaszkulacz.github.io/Vue/)
- Bardzo prosta aplikacja, za pomocą której możliwe jest dodawanie zadań do listy oraz oznaczanie ich jako wykonanych.
-#### sdads
+#### [ToDoList - Tutorial Vue.js](http://lukaszkulacz.github.io/Vue/) ([Strona projektu](http://github.com/LukaszKulacz/Vue))
+Bardzo prosta aplikacja, za pomocą której możliwe jest dodawanie zadań do listy oraz oznaczanie ich jako wykonanych.
+#### [Zajęcia](https://lk-aisd.herokuapp.com/) ([Strona projektu](http://github.com/LukaszKulacz/lk-aisd))
+Aplikacja, która umożliwia tworzenie, modyfikowanie i usuwanie zajęć. W ramach pojedyńczych zajęć można zarządzać wpisami dotyczącymi danych zajęć. Aplikacja została utworzona z pomocą języka *python*, biblioteki *django* oraz strony *herokuapp*.
 
 ## Publikacje naukowe
 1.	A. Kliks, P. Kryszkiewicz, A. Umbert, J. Pérez-Romero, F. Casadevall, Ł. Kułacz, “*Application of Radio Environment Maps for Dynamic Broadband Access in TV Bands in Urban Areas*,” IEEE Access, tom PP, nr 99, str 1-1, doi: 10.1109/ACCESS.2017.2751138
