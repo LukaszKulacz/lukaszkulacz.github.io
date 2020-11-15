@@ -1,4 +1,6 @@
 ## Projekty 
+#### [Kości](http://lukaszkulacz.github.io/Dices/Dices.html) ([Strona projektu](http://lukaszkulacz.github.io/Dices), [GitHub](http://github.com/LukaszKulacz/Dices))
+Gra w kości dla dwóch graczy - stworzona za pomocą silnika gier GoDot.
 #### [ToDoList - Tutorial Vue.js](http://lukaszkulacz.github.io/Vue/) ([GitHub](http://github.com/LukaszKulacz/Vue))
 Bardzo prosta aplikacja, za pomocą której możliwe jest dodawanie zadań do listy oraz oznaczanie ich jako wykonanych.
 #### [Zajęcia](https://lk-aisd.herokuapp.com/) ([Strona projektu](http://lukaszkulacz.github.io/lk-aisd/), [GitHub](http://github.com/LukaszKulacz/lk-aisd))
