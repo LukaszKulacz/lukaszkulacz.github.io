@@ -1,4 +1,6 @@
 ## Projekty 
+#### [Bombs](http://lukaszkulacz.github.io/Bombs/Bombs.html) ([Strona projektu](http://lukaszkulacz.github.io/Bombs), [GitHub](http://github.com/LukaszKulacz/Bombs))
+Gra typu Bomberman - stworzona za pomocą silnika gier GoDot.
 #### [Kości](http://lukaszkulacz.github.io/Dices/Dices.html) ([Strona projektu](http://lukaszkulacz.github.io/Dices), [GitHub](http://github.com/LukaszKulacz/Dices))
 Gra w kości dla dwóch graczy - stworzona za pomocą silnika gier GoDot.
 #### [ToDoList - Tutorial Vue.js](http://lukaszkulacz.github.io/Vue/) ([GitHub](http://github.com/LukaszKulacz/Vue))
